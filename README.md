@@ -1,4 +1,5 @@
 # Implementasi-ADT-Tree
+![ScreenShot](https://raw.githubusercontent.com/MuhammadNurAshiddiqi/Implementasi-ADT-Tree/master/SS.png)
 [TUGAS INDIVIDU]
 
 Implementasikan ADT Tree beradasrakan file materi Tree.
